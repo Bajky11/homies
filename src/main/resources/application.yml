@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://db:5432/friends-db
+    url: jdbc:postgresql://localhost:5432/friends_db
     username: user
     password: password
     driver-class-name: org.postgresql.Driver
